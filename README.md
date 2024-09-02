@@ -19,13 +19,13 @@ Once you've got the two circles moving around, play with the visuals and make it
 
 > [!NOTE]
 > Changing the speed values can make the two objects interact/overlap in interesting ways, and 
-> changing the "alpha" of a color (or a grayscale value) will create show the overlap differently 
+> changing the "alpha" of a color (or a grayscale value) will show the overlap differently 
 > than solid colors.
 
-> [!TIP]  
-> This is probably a good time to commit your changes!
-
 ## Part 2: Add Some Interacivity
+
+> [!TIP]  
+> This is probably a good time to commit your changes from Part 1!
 
 Modify the sketch to add some interactivity using both the keyboard *and* the mouse.
 
